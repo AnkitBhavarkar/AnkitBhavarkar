@@ -123,9 +123,9 @@ I am now combining this business experience with **AI, automation, and technolog
 
 ## 🔗 Connect With Me
 
-* 💼 **LinkedIn:** [Add LinkedIn Profile]
-* 🌐 **Portfolio:** [Add Portfolio Website]
-* 📧 **Email:** [Add Professional Email]
+* 💼 **LinkedIn:** [Ankit Bhavarkar](https://linkedin.com/in/ankit-bhavarkar)
+* 🌐 **Portfolio:** [Linktree Portfolio](https://linktr.ee/Ankitbhavarkar)
+* 📧 **Email:** [ankitbhavarkar001@gmail.com](mailto:ankitbhavarkar001@gmail.com)
 
 ---
 

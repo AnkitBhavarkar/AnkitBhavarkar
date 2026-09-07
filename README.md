@@ -19,7 +19,7 @@ I am building practical projects around **AI Automation, AI Agents, n8n workflow
 
 * 📱 **Google Product Teardown** — [View Presentation](https://docs.google.com/presentation/d/1a9MukyxWLDlCUh44Byrk4kBH3bxAAYRCCI7WP21Gh4Y/edit?usp=sharing)
 * 🪟 **Windows 11 Product Teardown** — [View Presentation](https://docs.google.com/presentation/d/1dZgSrUOB3K8d-p1j6sKh5akWo2fvciHAA3PNQFmhRbA/edit?usp=sharing)
-* 💳 **Paytm Product Teardown** — [View Case Study]([PASTE_DIRECT_PROJECT_LINK](https://drive.google.com/file/d/1zs2adR2qNUxCgB1V5gyIbLDIyyBJDGWF/view?usp=sharing))
+* 💳 **Paytm Product Teardown** — [View Case Study](PASTE_DIRECT_PROJECT_LINK](https://drive.google.com/file/d/1zs2adR2qNUxCgB1V5gyIbLDIyyBJDGWF/view?usp=sharing)
 * 📈 **Angel One Product Teardown** — [View Case Study](PASTE_DIRECT_PROJECT_LINK)
 * 🎵 **Spotify Product Teardown** — [View Case Study](PASTE_DIRECT_PROJECT_LINK)
 * 🚆 **IRCTC Rail Connect Product Teardown** — [View Case Study](PASTE_DIRECT_PROJECT_LINK)

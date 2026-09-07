@@ -23,6 +23,7 @@ Product management enthusiast sharing insights on product teardowns, strategies,
 - **Business & Strategy:** Management Consulting Courses Certification
 - **Technical & Data Skills:** Python Core | Excel Essential Formulas & Functions | Microsoft Excel Complete Mastery
 - **Professional:** Turbo-Charged LinkedIn Course Certificate
+- - 📱 [Google Product Teardown](https://docs.google.com/presentation/d/1a9MukyxWLDlCUh44Byrk4kBH3bxAAYRCCI7WP21Gh4Y/edit?usp=sharing)
 
 ---
 

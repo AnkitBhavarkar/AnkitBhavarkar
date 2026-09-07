@@ -7,7 +7,7 @@ Product management enthusiast sharing insights on product teardowns, strategies,
 
 ### 📂 Product Case Studies & Teardowns
 - 📱 [Google Product Teardown](https://docs.google.com/presentation/d/1a9MukyxWLDlCUh44Byrk4kBH3bxAAYRCCI7WP21Gh4Y/edit?usp=sharing)
-- 🪟 [WINDOWS 11 Product Teardown]([https://linktr.ee/Ankitbhavarkar](https://docs.google.com/presentation/d/1dZgSrUOB3K8d-p1j6sKh5akWo2fvciHAA3PNQFmhRbA/edit?usp=sharing))
+- 🪟 [WINDOWS 11 Product Teardown](https://docs.google.com/presentation/d/1dZgSrUOB3K8d-p1j6sKh5akWo2fvciHAA3PNQFmhRbA/edit?usp=sharing)
 - 💳 [Paytm Product Teardown](https://linktr.ee/Ankitbhavarkar)
 - 📈 [Angle One Product Teardown](https://linktr.ee/Ankitbhavarkar)
 - 🎵 [Spotify CaseProduct Teardown](https://linktr.ee/Ankitbhavarkar)

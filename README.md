@@ -8,10 +8,10 @@ I am building practical projects around **AI Automation, AI Agents, n8n workflow
 
 ## 🤖 AI & Automation Projects
 
-* ⚙️ **n8n AI Automation Workflows** — [View Project](PASTE_GITHUB_REPOSITORY_LINK)
-* 🤖 **WhatsApp AI Agent** — [View Project](PASTE_GITHUB_REPOSITORY_LINK)
-* 🧠 **AI Agent Automation Projects** — [View Projects](PASTE_GITHUB_REPOSITORY_LINK)
-* 🔌 **API Integration Projects** — [View Projects](PASTE_GITHUB_REPOSITORY_LINK)
+* ⚙️ **n8n AI Automation Workflows** — [View Project](#)
+* 🤖 **WhatsApp AI Agent** — [View Project](#)
+* 🧠 **AI Agent Automation Projects** — [View Projects](#)
+* 🔌 **API Integration Projects** — [View Projects](#)
 
 ---
 
@@ -19,18 +19,18 @@ I am building practical projects around **AI Automation, AI Agents, n8n workflow
 
 * 📱 **Google Product Teardown** — [View Presentation](https://docs.google.com/presentation/d/1a9MukyxWLDlCUh44Byrk4kBH3bxAAYRCCI7WP21Gh4Y/edit?usp=sharing)
 * 🪟 **Windows 11 Product Teardown** — [View Presentation](https://docs.google.com/presentation/d/1dZgSrUOB3K8d-p1j6sKh5akWo2fvciHAA3PNQFmhRbA/edit?usp=sharing)
-* 💳 **Paytm Product Teardown** — [View Case Study](PASTE_DIRECT_PROJECT_LINK](https://drive.google.com/file/d/1zs2adR2qNUxCgB1V5gyIbLDIyyBJDGWF/view?usp=sharing)
-* 📈 **Angel One Product Teardown** — [View Case Study](PASTE_DIRECT_PROJECT_LINK)
-* 🎵 **Spotify Product Teardown** — [View Case Study](PASTE_DIRECT_PROJECT_LINK)
-* 🚆 **IRCTC Rail Connect Product Teardown** — [View Case Study](PASTE_DIRECT_PROJECT_LINK)
+* 💳 **Paytm Product Teardown** — [View Case Study](https://drive.google.com/file/d/1zs2adR2qNUxCgB1V5gyIbLDIyyBJDGWF/view?usp=sharing)
+* 📈 **Angel One Product Teardown** — [View Case Study](https://docs.google.com/presentation/d/1_BsZzODVX74LO9xzmn5oMOT81oi7YppJc_IurKP6Lqo/edit?usp=sharing)
+* 🎵 **Spotify Product Teardown** — [View Case Study](https://docs.google.com/presentation/d/1tTNBq7m7_sCNtwINv2AfsbazvSQrLuino6zCXga_DVc/edit?usp=sharing)
+* 🚆 **IRCTC Rail Connect Product Teardown** — [View Case Study](https://docs.google.com/presentation/d/1DzPJcYUV3fAxku3yiD4CEuBqp7hotfqdBgJEKUaCyis/edit?usp=sharing)
 
 ---
 
 ## 🚀 Business & Strategy Projects
 
-* 🚀 **Go-to-Market Strategy for RMS Jobaaj** — [View Strategy](PASTE_DIRECT_PROJECT_LINK)
-* 🗺️ **EdTech Miro Mind Map** — [View Project](PASTE_DIRECT_PROJECT_LINK)
-* 📊 **Jobaaj Learning SWOT Analysis** — [View Analysis](PASTE_DIRECT_PROJECT_LINK)
+* 🚀 **Go-to-Market Strategy for RMS Jobaaj** — [View Strategy](https://docs.google.com/document/d/1a8n_zciODUgsQANiX6yGZq0NXJuDqxqTpVh0VhHA7KE/edit?usp=sharing)
+* 🗺️ **EdTech Miro Mind Map** — [View Project](https://docs.google.com/document/d/1igKcbjgglAuK01W97cIkJYBwlHsUFBMn2r8DyqllxEo/edit?usp=sharing)
+* 📊 **Jobaaj Learning SWOT Analysis** — [View Analysis](https://docs.google.com/document/d/1XUbm0SBwSwajYQUdXaumYIePrlpaAhwz/edit?usp=sharing&ouid=101920618229301791290&rtpof=true&sd=true)
 
 ---
 
@@ -117,7 +117,7 @@ My background combines:
 * 💼 Sales & Business Development
 * 🚀 Product & Business Strategy
 
-I am now combining this business experience with **AI, automation and technology** to build practical solutions.
+I am now combining this business experience with **AI, automation, and technology** to build practical solutions.
 
 ---
 

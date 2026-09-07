@@ -10,7 +10,8 @@ I am building practical projects around **AI Automation, AI Agents, n8n workflow
 
 * ⚙️ **n8n AI Automation Workflows** — [View Project](#)
 * 🤖 **WhatsApp AI Agent** — [View Project](#)
-* 🧠 **AI Agent Automation Projects** — [View Projects](#)
+* 🧠 **Nifty Trade Setup** — [ankittradewithlogic-workflows (1).zip](https://github.com/user-attachments/files/31909390/ankittradewithlogic-workflows.1.zip)
+
 * 🔌 **API Integration Projects** — [View Projects](#)
 
 ---

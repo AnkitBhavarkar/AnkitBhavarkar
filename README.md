@@ -11,7 +11,6 @@ I am building practical projects around **AI Automation, AI Agents, n8n workflow
 * ⚙️ **n8n AI Automation Workflows** — [View Project](#)
 * 🤖 **WhatsApp AI Agent** — [View Project](#)
 * 🧠 **Nifty Trade Setup** — [ankittradewithlogic-workflows (1).zip](https://github.com/user-attachments/files/31909390/ankittradewithlogic-workflows.1.zip)
-
 * 🔌 **API Integration Projects** — [View Projects](#)
 
 ---
@@ -24,6 +23,12 @@ I am building practical projects around **AI Automation, AI Agents, n8n workflow
 * 📈 **Angel One Product Teardown** — [View Case Study](https://docs.google.com/presentation/d/1_BsZzODVX74LO9xzmn5oMOT81oi7YppJc_IurKP6Lqo/edit?usp=sharing)
 * 🎵 **Spotify Product Teardown** — [View Case Study](https://docs.google.com/presentation/d/1tTNBq7m7_sCNtwINv2AfsbazvSQrLuino6zCXga_DVc/edit?usp=sharing)
 * 🚆 **IRCTC Rail Connect Product Teardown** — [View Case Study](https://docs.google.com/presentation/d/1DzPJcYUV3fAxku3yiD4CEuBqp7hotfqdBgJEKUaCyis/edit?usp=sharing)
+
+### ⭐ Selected Product Projects
+
+* 🎯 **Ant Media — Product Project** — [View Presentation](https://docs.google.com/presentation/d/15DNK4QN5ubdkFddGfT2AuYtaFQBH2nwevFuxwvXHRgo/edit?usp=sharing)
+* 🏆 **Shortlisted Product Project 1** — [View Presentation](https://docs.google.com/presentation/d/1I2AcAhZMRnEN4EHp6P9VOv--K8geiid3W2Y1oiJv3Hg/edit?usp=sharing)
+* 🏆 **Shortlisted Product Project 2** — [View Presentation](https://docs.google.com/presentation/d/1TFjEGh1ar-rNOuZg8Mvy5CX1uBi998zH508sgBV52rc/edit?usp=sharing)
 
 ---
 

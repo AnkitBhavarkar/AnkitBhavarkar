@@ -2,7 +2,7 @@
 
 **AI Automation & AI Agent Builder | Python | n8n | Product & Business Strategy**
 
-I am building practical projects around **AI Automation, AI Agents, n8n workflows, Python, APIs, Product Management, and Business Strategy.**
+I built practical projects around **AI Automation, AI Agents, n8n workflows, Python, APIs, Product Management, and Business Strategy.**
 
 ---
 

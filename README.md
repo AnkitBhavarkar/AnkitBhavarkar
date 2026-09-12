@@ -21,7 +21,7 @@ A structured market-research and trading journal focused on **NIFTY price action
 
 ### Research Highlights
 
-* 📅 **20 documented market observations** from May–June 2026
+* 📅 **80 documented market observations** 
 * ⏱️ **15 Min + 1 Hour multi-timeframe analysis**
 * 📍 **P / S4 / R4 support & resistance behaviour**
 * 📈 **Gap-up / gap-down and gap-fill observations**

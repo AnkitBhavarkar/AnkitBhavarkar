@@ -27,7 +27,7 @@ I built practical projects around **AI Automation, AI Agents, n8n workflows, Pyt
 ### ⭐ Selected Product Projects
 
 * 🎯 **Ant Media — Product Project** — [View Presentation](https://docs.google.com/presentation/d/15DNK4QN5ubdkFddGfT2AuYtaFQBH2nwevFuxwvXHRgo/edit?usp=sharing)
-* 🏆 **Shortlisted Product Project 1** — [View Presentation](https://docs.google.com/presentation/d/1I2AcAhZMRnEN4EHp6P9VOv--K8geiid3W2Y1oiJv3Hg/edit?usp=sharing)
+* 🏆 **Wizdom** — [View Presentation](https://docs.google.com/presentation/d/1I2AcAhZMRnEN4EHp6P9VOv--K8geiid3W2Y1oiJv3Hg/edit?usp=sharing)
 * 🏆 **Shortlisted Product Project 2** — [View Presentation](https://docs.google.com/presentation/d/1TFjEGh1ar-rNOuZg8Mvy5CX1uBi998zH508sgBV52rc/edit?usp=sharing)
 
 ---

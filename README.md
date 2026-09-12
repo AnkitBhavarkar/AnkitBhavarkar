@@ -2,16 +2,39 @@
 
 **AI Automation & AI Agent Builder | Python | n8n | Product & Business Strategy**
 
-I built practical projects around **AI Automation, AI Agents, n8n workflows, Python, APIs, Product Management, and Business Strategy.**
+I build practical projects around **AI Automation, AI Agents, n8n workflows, Python, APIs, Product Management, Business Strategy, and financial-market research.**
 
 ---
 
 ## 🤖 AI & Automation Projects
 
 * ⚙️ **n8n AI Automation Workflows** — [View Project](#)
-* 🤖 **WhatsApp AI Agent** — [View Project](#)
-* 🧠 **Nifty Trade Setup** — [ankittradewithlogic-workflows (1).zip](https://github.com/user-attachments/files/31909390/ankittradewithlogic-workflows.1.zip)
+* 🤖 **WhatsApp AI Receptionist** — [View Project](#)
+* 🧠 **Nifty Trade Setup** — [Workflow ZIP](https://github.com/user-attachments/files/31909390/ankittradewithlogic-workflows.1.zip)
 * 🔌 **API Integration Projects** — [View Projects](#)
+
+---
+
+## 📊 Trade With Logic — NIFTY Market Research
+
+A structured market-research and trading journal focused on **NIFTY price action, 15-minute and 1-hour multi-timeframe analysis, P/S4/R4 levels, gap behaviour, HA + Normal candle confirmation, setup validation, trade outcomes, and post-trade learning.**
+
+### Research Highlights
+
+* 📅 **20 documented market observations** from May–June 2026
+* ⏱️ **15 Min + 1 Hour multi-timeframe analysis**
+* 📍 **P / S4 / R4 support & resistance behaviour**
+* 📈 **Gap-up / gap-down and gap-fill observations**
+* 🕯️ **Heikin Ashi + Normal candle confirmation**
+* 🧠 **Market psychology and setup-validation learnings**
+* 📒 **Win / loss / observation journal with post-trade notes**
+
+**Key learning:** Stronger setups came from alignment across timeframe, support/resistance structure, candle confirmation, and market context rather than relying on a single signal.
+
+* 🔗 **[View NIFTY Research Journal on Notion](https://app.notion.com/p/3d949fa0369581479b4de84b74860d9f?pvs=204)**
+* 💬 **[Trade With Logic WhatsApp Channel](https://whatsapp.com/channel/0029Vb82lFuFXUuZFN6rNP04)**
+
+> **Educational research only. Not investment advice or a recommendation to buy/sell securities.**
 
 ---
 
@@ -90,20 +113,11 @@ I built practical projects around **AI Automation, AI Agents, n8n workflows, Pyt
 
 ---
 
-## 📈 Financial & Stock Market Projects
-
-* 📊 Stock Market Analysis
-* 📈 Technical Analysis Projects
-* 🤖 Automated Trading Workflow
-* 🔔 Market Signal & Alert Automation
-
----
-
 ## 🎯 Current Focus
 
 I am currently focused on developing my skills in:
 
-**AI Agents → n8n → Python → APIs → Automation → AI Engineering**
+**AI Agents → n8n → Python → APIs → SQL → Automation → AI Engineering**
 
 My goal is to build practical AI-powered automation systems that solve real-world business problems.
 
@@ -134,4 +148,4 @@ I am now combining this business experience with **AI, automation, and technolog
 
 ### ⚡ My Approach
 
-**Learn → Build → Automate → Solve Real Problems**
+**Learn → Build → Test → Fix → Automate → Solve Real Problems**

@@ -25,12 +25,12 @@ I built practical projects around **AI Automation, AI Agents, n8n workflows, Pyt
 * 🚆 **IRCTC Rail Connect Product Teardown** — [View Case Study](https://docs.google.com/presentation/d/1DzPJcYUV3fAxku3yiD4CEuBqp7hotfqdBgJEKUaCyis/edit?usp=sharing)
 * 🎯 **Ant Media — Product Project** — [View Presentation](https://docs.google.com/presentation/d/15DNK4QN5ubdkFddGfT2AuYtaFQBH2nwevFuxwvXHRgo/edit?usp=sharing)
 * 🏆 **Wizdom** — [View Presentation](https://docs.google.com/presentation/d/1I2AcAhZMRnEN4EHp6P9VOv--K8geiid3W2Y1oiJv3Hg/edit?usp=sharing)
-* 🏆 **Enhancing Meesho's Social Media Strategy with OpeninApp** — [View Presentation](https://docs.google.com/presentation/d/1TFjEGh1ar-rNOuZg8Mvy5CX1uBi998zH508sgBV52rc/edit?usp=sharing)
 
 ---
 
 ## 🚀 Business & Strategy Projects
 
+* 🏆 **Enhancing Meesho's Social Media Strategy with OpeninApp** — [View Presentation](https://docs.google.com/presentation/d/1TFjEGh1ar-rNOuZg8Mvy5CX1uBi998zH508sgBV52rc/edit?usp=sharing)
 * 🚀 **Go-to-Market Strategy for RMS Jobaaj** — [View Strategy](https://docs.google.com/document/d/1a8n_zciODUgsQANiX6yGZq0NXJuDqxqTpVh0VhHA7KE/edit?usp=sharing)
 * 🗺️ **EdTech Miro Mind Map** — [View Project](https://docs.google.com/document/d/1igKcbjgglAuK01W97cIkJYBwlHsUFBMn2r8DyqllxEo/edit?usp=sharing)
 * 📊 **Jobaaj Learning SWOT Analysis** — [View Analysis](https://docs.google.com/document/d/1XUbm0SBwSwajYQUdXaumYIePrlpaAhwz/edit?usp=sharing&ouid=101920618229301791290&rtpof=true&sd=true)

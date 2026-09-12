@@ -16,25 +16,21 @@ I build practical projects around **AI Automation, AI Agents, n8n workflows, Pyt
 ---
 
 ## 📊 Trade With Logic — NIFTY Market Research
+📊 Trade With Logic — NIFTY Research
 
-A structured market-research and trading journal focused on **NIFTY price action, 15-minute and 1-hour multi-timeframe analysis, P/S4/R4 levels, gap behaviour, HA + Normal candle confirmation, setup validation, trade outcomes, and post-trade learning.**
+“Don’t use your brain, just follow the rules.” 🧠📏
 
-### Research Highlights
+80+ market observations covering:
+• 15M & 1H price action
+• P / S4 / R4 levels
+• Gap & gap-fill behaviour
+• HA + Normal candle confirmation
+• Trade outcomes & key learnings
 
-* 📅 **80 documented market observations** 
-* ⏱️ **15 Min + 1 Hour multi-timeframe analysis**
-* 📍 **P / S4 / R4 support & resistance behaviour**
-* 📈 **Gap-up / gap-down and gap-fill observations**
-* 🕯️ **Heikin Ashi + Normal candle confirmation**
-* 🧠 **Market psychology and setup-validation learnings**
-* 📒 **Win / loss / observation journal with post-trade notes**
+🔎 Want more info? Just click below:
+🔗 "NIFTY Research Journal" (https://app.notion.com/p/3d949fa0369581479b4de84b74860d9f?pvs=204)
 
-**Key learning:** Stronger setups came from alignment across timeframe, support/resistance structure, candle confirmation, and market context rather than relying on a single signal.
-
-* 🔗 **[View NIFTY Research Journal on Notion](https://app.notion.com/p/3d949fa0369581479b4de84b74860d9f?pvs=204)**
-* 💬 **[Trade With Logic WhatsApp Channel](https://whatsapp.com/channel/0029Vb82lFuFXUuZFN6rNP04)**
-
-> **Educational research only. Not investment advice or a recommendation to buy/sell securities.**
+💬 "Trade With Logic WhatsApp Channel" (https://whatsapp.com/channel/0029Vb82lFuFXUuZFN6rNP04)
 
 ---
 

@@ -8,7 +8,7 @@ I build practical projects around **AI Automation, AI Agents, n8n workflows, Pyt
 
 ## 🤖 AI & Automation Projects
 
-* ⚙️ **n8n AI Automation Workflows** — [View Project](#)
+* ⚙️ **n8n AI Automation Workflows** — [View Project](https://github.com/AnkitBhavarkar/AnkitBhavarkar/issues/3#issue-5688078765)
 * 🤖 **WhatsApp AI Receptionist** — [View Project](https://github.com/AnkitBhavarkar/AnkitBhavarkar/issues/2#issue-5688036049)
 * 🧠 **Leave Policy RAG Assistant** — [View Project](https://github.com/AnkitBhavarkar/AnkitBhavarkar/issues/1#issue-5688007901)
 * 🧠 **Nifty Trade Setup** — [Workflow ZIP](https://github.com/user-attachments/files/31909390/ankittradewithlogic-workflows.1.zip)

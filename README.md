@@ -29,9 +29,9 @@ I build practical projects around **AI Automation, AI Agents, n8n workflows, Pyt
 • Trade outcomes & key learnings
 
 🔎 Want more info? Just click below:
-🔗 "NIFTY Research Journal" (https://app.notion.com/p/3d949fa0369581479b4de84b74860d9f?pvs=204)
+🔗 **NIFTY Research Journal** — [View](https://app.notion.com/p/3d949fa0369581479b4de84b74860d9f?pvs=204)
 
-💬 "Trade With Logic WhatsApp Channel" (https://whatsapp.com/channel/0029Vb82lFuFXUuZFN6rNP04)
+💬 **Trade With Logic WhatsApp Channel** — [View ](https://whatsapp.com/channel/0029Vb82lFuFXUuZFN6rNP04)
 
 ---
 

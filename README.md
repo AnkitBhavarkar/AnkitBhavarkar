@@ -10,8 +10,22 @@ I build practical projects around **AI Automation, AI Agents, n8n workflows, Pyt
 
 * ⚙️ **n8n AI Automation Workflows** — [View Project](#)
 * 🤖 **WhatsApp AI Receptionist** — [View Project](#)
+* 🧠 **Leave Policy RAG Assistant** — [View Project](#)
 * 🧠 **Nifty Trade Setup** — [Workflow ZIP](https://github.com/user-attachments/files/31909390/ankittradewithlogic-workflows.1.zip)
 * 🔌 **API Integration Projects** — [View Projects](#)
+
+### 🧠 Leave Policy RAG Assistant
+
+A practical **RAG (Retrieval-Augmented Generation)** workflow built with **n8n, Google Drive, Google Gemini Embeddings, Pinecone Vector Store, and Gemini Chat Model**.
+
+**Workflow:**
+`Google Drive PDF → Document Loader → Gemini Embeddings → Pinecone → User Question → Vector Retriever → Gemini → Answer`
+
+The workflow downloads a Leave & Holiday Policy PDF from Google Drive, converts the document into embeddings, stores them in a Pinecone namespace, and uses retrieval-based Q&A to answer user questions from the policy. The workflow includes a chat trigger, retrieval QA chain, vector-store retriever, and Gemini chat model.
+
+📄 **Workflow file:** `leave policy.json`
+
+🔗 **[View GitHub Repository](https://github.com/AnkitBhavarkar/AnkitBhavarkar)`
 
 ---
 
